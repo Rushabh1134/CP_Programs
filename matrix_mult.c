@@ -53,6 +53,14 @@ for(i =0; i< row1; i++){
     }
 }
 
+printf("The matrix multiplication will be: \n");
+
+for(i =0; i< row1; i++){
+    for(j =0; j< col2; j++){
+       printf("%d\t",arr[i][j]);
+    }
+printf("\n");
+}
 
 
 
