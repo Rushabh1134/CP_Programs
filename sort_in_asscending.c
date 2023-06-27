@@ -29,5 +29,8 @@ int main()
     for(i=0; i<n; i++){
         printf("%d ", arr[i]);
     }
+
+    //To find the second greatest number in an array.
+    printf("The second greatest number is %d." arr[n-1]);
     return 0;
 }
